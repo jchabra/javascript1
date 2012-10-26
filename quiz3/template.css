@@ -1,0 +1,26 @@
+.color
+{
+	border: 3px solid #ffffff;
+	float: left;
+	width: 50px;
+	height: 50px;
+	margin: 0px 10px 10px 0px;
+}
+
+.clear
+{
+	clear: both;
+}
+
+#colors {
+	float: left;
+}
+
+#hoverbox
+{
+	border: 3px solid black;
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 0px 10px 10px 0px;
+}

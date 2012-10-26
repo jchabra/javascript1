@@ -1,0 +1,147 @@
+@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic);
+@import url(http://fonts.googleapis.com/css?family=Marcellus);
+
+body{
+	background-color: white;
+}
+
+#full
+{
+	margin: 90px auto;
+
+}
+
+header
+{
+	text-align: center;
+	width: 650px;
+	margin: auto;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+
+#main
+{
+}
+
+#left_col
+{
+	width: 460px;
+	float: left;
+
+	background-color: #00549E;
+	border-radius: 30px;
+	margin: 0 10px 0 0;
+	box-shadow: 1px 1px 30px #ccc;
+}
+
+#right_col
+{
+	width: 460px;
+	float: left;
+	background-color: #00549E;
+	border-radius: 30px;
+	margin: 0 0 0 10px;
+	box-shadow: 1px 1px 30px #ccc;
+}
+
+.title {
+	width: 400px;
+	margin: auto;
+	text-align: center;
+}
+
+#checking_balance 
+{
+	width: 400px;
+	margin: auto;
+	text-align: center;
+
+	background-color: white;
+	border: 1px black solid;
+
+	font-family: 'Carrois Gothic', sans-serif;
+	color: black;
+	letter-spacing: 4px;
+}
+
+#savings_balance 
+{
+	width: 400px;
+	margin: auto;
+	text-align: center;
+
+	border: 1px black solid;
+	background-color: white;
+	font-family: 'Carrois Gothic', sans-serif;
+	color: black;
+	letter-spacing: 4px;
+}
+
+.input_amount
+{
+	width: 200px;
+	display: inline;
+}
+#checking_amount 
+{
+	font-size: 30px;
+	width: 140px;
+	margin: 20px 50px;
+
+	text-align: right;
+
+	border-radius: 10px;
+
+}
+
+#savings_amount
+{
+	font-size: 30px;
+	width: 140px;
+	margin: 20px 50px;
+
+	text-align: right;
+
+	border-radius: 10px;
+
+	font-family: 'Carrois Gothic', sans-serif;
+	color: black;
+	letter-spacing: 4px;	
+}
+
+.button {
+	width: 75px;
+	margin: 17px 25px 0 0;
+	float: right;
+}
+
+
+#checking_deposit
+{
+
+}
+
+#checking_withdraw
+{
+
+}
+
+h1
+{
+font-family: 'Marcellus SC', serif;
+color: black;
+font-size: 40px;
+letter-spacing: 5px;
+
+}
+
+h2
+{
+
+font-family: 'Carrois Gothic', sans-serif;
+color: white;
+letter-spacing: 4px;
+
+}

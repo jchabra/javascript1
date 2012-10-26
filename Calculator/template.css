@@ -1,0 +1,14 @@
+.clear {
+	clear:both;
+}
+
+#value1, #value2 {
+	float: left;
+}
+
+#total {
+	height: 16px;
+	width: 500px;
+	border: 2px solid black;
+	float: left; 
+}

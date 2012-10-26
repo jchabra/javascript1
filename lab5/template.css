@@ -1,0 +1,156 @@
+#container
+{
+	width:960px;
+	margin:auto;
+}
+
+#main: 
+{
+	width:780px;
+	height:780px;
+	margin:auto;
+	border:2px solid red;
+	padding:10px;
+}
+
+/*---BOXES and BUTTONS---*/
+.box
+{
+	width:260px;
+	height:260px;
+	margin:10px;
+	float:left;	
+}
+
+.button{
+	width:260px;
+	height:260px;
+	border-top: 1px solid #c2c3c4;
+	background: #737373;
+	background: -webkit-gradient(linear, left top, left bottom, from(#6b6b6b), to(#737373));
+	background: -webkit-linear-gradient(top, #6b6b6b, #737373);
+	background: -moz-linear-gradient(top, #6b6b6b, #737373);
+	background: -ms-linear-gradient(top, #6b6b6b, #737373);
+	background: -o-linear-gradient(top, #6b6b6b, #737373);
+	padding: 18.5px 37px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	box-shadow: rgba(0,0,0,1) 0 1px 0;
+	text-shadow: rgba(0,0,0,.4) 0 1px 0;
+	color: white;
+	font-size: 40px;
+	font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+	text-decoration: none;
+	vertical-align: middle;
+   }
+
+.button:hover {
+   border-top-color: #648a82;
+   background: #648a82;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #1b5c2f;
+   background: #1b5c2f;
+   }
+
+/*------ COLOR2 ------*/
+#red {
+	width:260px;
+	height:260px;
+	border-top: 1px solid #c2c3c4;
+	background: #ff0000;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ff0015), to(#ff0000));
+	background: -webkit-linear-gradient(top, #ff0015, #ff0000);
+	background: -moz-linear-gradient(top, #ff0015, #ff0000);
+	background: -ms-linear-gradient(top, #ff0015, #ff0000);
+	background: -o-linear-gradient(top, #ff0015, #ff0000);
+	padding: 18.5px 37px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	box-shadow: rgba(0,0,0,1) 0 1px 0;
+	text-shadow: rgba(0,0,0,.4) 0 1px 0;
+	color: white;
+	font-size: 40px;
+	font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+	text-decoration: none;
+	vertical-align: middle;
+   }
+#red:hover {
+   border-top-color: #6b6b6b;
+   background: #6b6b6b;
+   color: #ccc;
+   }
+#red:active {
+   border-top-color: #6b6b6b;
+   background: #6b6b6b;
+   }
+
+/*------ COLOR2 ------*/
+#blue {
+	width:260px;
+	height:260px;
+	border-top: 1px solid #c2c3c4;
+	background: #0037ff;
+	background: -webkit-gradient(linear, left top, left bottom, from(#0037ff), to(#0037ff));
+	background: -webkit-linear-gradient(top, #0037ff, #0037ff);
+	background: -moz-linear-gradient(top, #0037ff, #0037ff);
+	background: -ms-linear-gradient(top, #0037ff, #0037ff);
+	background: -o-linear-gradient(top, #0037ff, #0037ff);
+	padding: 18.5px 37px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	box-shadow: rgba(0,0,0,1) 0 1px 0;
+	text-shadow: rgba(0,0,0,.4) 0 1px 0;
+	color: white;
+	font-size: 40px;
+	font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+	text-decoration: none;
+	vertical-align: middle;
+   }
+#blue:hover {
+   border-top-color: #6b6b6b;
+   background: #6b6b6b;
+   color: #ccc;
+   }
+#blue:active {
+   border-top-color: #6b6b6b;
+   background: #6b6b6b;
+   }
+
+/*-----BOX----*/
+
+#answer {
+	width:260px;
+	height:260px;
+	border-top: 1px solid #c2c3c4;
+	background: #737373;
+	background: -webkit-gradient(linear, left top, left bottom, from(#6b6b6b), to(#737373));
+	background: -webkit-linear-gradient(top, #6b6b6b, #737373);
+	background: -moz-linear-gradient(top, #6b6b6b, #737373);
+	background: -ms-linear-gradient(top, #6b6b6b, #737373);
+	background: -o-linear-gradient(top, #6b6b6b, #737373);
+	padding: 18.5px 37px;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+	box-shadow: rgba(0,0,0,1) 0 1px 0;
+	text-shadow: rgba(0,0,0,.4) 0 1px 0;
+	color: white;
+	font-size: 40px;
+	font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+	text-decoration: none;
+	vertical-align: middle;
+   }
+

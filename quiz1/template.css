@@ -1,0 +1,11 @@
+
+#answer {
+	height: 16px;
+	width: 150px;
+	border: 2px solid black;
+	float: left; 
+}
+
+.clear {
+	clear: both;
+}
